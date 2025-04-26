@@ -50,8 +50,8 @@ With a strong academic foundation in Computer Applications from the College of E
 
 ## 🌐 **Languages**  
 - 🗣 **English**: Fluent  
-- 🗣 **Odia**: Native  
-- 🗣 **Hindi**: Conversational  
+- 🗣 **Odia**:Fluent
+- 🗣 **Hindi**: Fluent
 
 ---
 
